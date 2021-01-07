@@ -1,0 +1,18 @@
+{
+  "name": "classplus_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
